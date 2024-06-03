@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ProjetoLinux
 Projeto do Programa de Bolsa da Compass UOL em DevSecOps
 =======
@@ -27,4 +26,3 @@ Projeto do Programa de Bolsa da Compass UOL em DevSecOps
 
 
 [^1^]: Aqui pode incluir quais as regras de trafego deseja, porém é possível definir dentro da seção de Security Groups, caso necessite algum ajuste.
->>>>>>> 774e857 (Cria um arquivo README com dados de criação de um instancia na console AWS)
