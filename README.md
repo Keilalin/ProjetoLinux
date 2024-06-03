@@ -11,7 +11,7 @@ Projeto do Programa de Bolsa da Compass UOL em DevSecOps
 
 ### Criando uma chave pública
 1. Acessar a console da AWS na parte de EC2
-2. Em Key Pairs, create Key Pair: definir um nome, o tipo de chave,o formato da chave, criar tags se desejar e criar a chave.
+2. Em Key Pairs, create Key Pair: definir um nome, o tipo de chave, o formato da chave, criar tags se desejar e criar a chave.
 
 ### Criando uma Instância Linux
 1. Acessar a console da AWS na parte de EC2
@@ -20,7 +20,7 @@ Projeto do Programa de Bolsa da Compass UOL em DevSecOps
 ### Criando e Associando um Elastic IP
 1. Acessar a console da AWS na parte de EC2
 2. Em Elastic IP, Allocate Elastic IP Address: seleciona a mesma região da instância criada anteriormente, define tags se desejar e finaliza em Allocate.
-3. Seleciona o Elastic IP recém criado e em Actrions seleciona Associate Elastic IP, escolhe a instância que gostaria de associar e finaliza em Associate.
+3. Seleciona o Elastic IP recém criado e em Actions seleciona Associate Elastic IP, escolhe a instância que gostaria de associar e finaliza em Associate.
 
 <h2 align="center">Sua instância está pronta para ser acessada!</h2>
 
