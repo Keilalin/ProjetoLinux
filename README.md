@@ -9,4 +9,4 @@
 * [Configurando o Linux](https://github.com/Keilalin/ProjetoLinux/blob/6c68e6bba529eab96ef6e82a191989705ac64234/Configurar-Linux.md)
       Essa seção é um guia de como configurar o NFS, subir e rodar o Apache, com um script automatizado.
 
-* [Acessar o Script de Status do Apache]
+* [Acessar o Script de Status do Apache](https://github.com/Keilalin/ProjetoLinux/blob/fdb41ddb5a4bd03622792510fb29223f9260f664/apache-status.sh)
