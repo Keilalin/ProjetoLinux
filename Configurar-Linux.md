@@ -22,9 +22,10 @@
 
 ### Criar diretório nominal
 1. Criar um diretório com seu nome
-        mkdir /usuario
 
-2. Exportar essa pasta editando o arquivo /etc/exports
+       mkdir /usuario
+
+3. Exportar essa pasta editando o arquivo /etc/exports
 
         /usuario *(ro)
         /usr/sbin/exportfs -rav
@@ -32,11 +33,13 @@
 
 ### Subir e configurar o Apache
 1. Instalar e iniciar o Apache
-        yum install httpd
-        systemctl start httpd
 
-2. Verificar se o Apache está rondando
-        systemctl status httpd
+       yum install httpd
+       systemctl start httpd
+
+3. Verificar se o Apache está rondando
+
+       systemctl status httpd
 
 ### Criar e executar o script com status do Apache
 1. Navegar até o diretório que irá conter o script
