@@ -54,7 +54,7 @@
 
         chmod +x script-desejado.sh
 
-### Configurar execucação automatizada do script
+### Configurar execução automatizada do script
 1. Editar a lista de tarefas com o comando:
 
         crontab -e
