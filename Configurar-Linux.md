@@ -50,7 +50,7 @@
 
         vim script-desejado.sh
 
-3. Tornar o scripi executável
+3. Tornar o script executável
 
         chmod +x script-desejado.sh
 
