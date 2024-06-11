@@ -16,4 +16,4 @@
 <h2 align="center">Sua instância está pronta para ser acessada!</h2>
 
 
-[^1^]: Aqui pode incluir quais as regras de trafego deseja, porém é possível definir dentro da seção de Security Groups, caso necessite algum ajuste.
+[^1^]: Aqui pode incluir quais as regras de trafego desejadas, porém é possível definir dentro da seção de Security Groups, caso necessite algum ajuste.
